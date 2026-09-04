@@ -1,48 +1,126 @@
-版权所有 © 2026 zaochuanyitian
-保留所有权利 · All Rights Reserved
+All Rights Reserved — No Redistribution, No Derivatives, No Commercial Use
+保留所有权利 —— 禁止二传、禁止二改、禁止商用
 
-────────────────────────────────────────
+Copyright (c) 2026 zaochuanyitian (小猫) — https://github.com/zaochuanyitian
+All rights reserved. 保留所有权利。
 
-这份许可只想说一件事：尊重原创。
+这份许可只想说一件事：**尊重原创。**
 
-【可以】
-· 阅读源码，学习实现思路
-· 在你自己的个人项目里参考这里的做法
+源码是公开的，是为了让人读、让人学。公开 ≠ 放弃权利：除下面明确写出来的以外，
+所有权利均予保留。本项目**不是开源项目**，也不适用 MIT、Apache-2.0 之类的开源许可。
 
-【禁止】（未经作者书面同意）
-1. 二次转载
-   不得将本仓库的任何内容（源码、点九数据、图片素材）搬运、上传、
-   镜像、打包到其他平台、仓库、网盘或素材站。
-   喜欢的话请直接链接到本仓库，不要搬走它。
+------------------------------------------------------------------------------
+1. 你可以
 
-2. 二次修改
-   不得修改、改编、再创作后以任何形式发布或分发，
-   包括但不限于改色、改尺寸、换装饰、重新命名后重新发布。
+   a. 阅读本仓库的源码，学习它的实现思路。
+   b. 在你自己的**个人、非商业**项目里参考这里的做法（参考思路，不是搬运文件）。
+   c. 把本仓库的**链接**分享给任何人 —— 欢迎链接，不要搬走。
 
-3. 商业使用
-   不得用于任何商业用途，包括收费产品、付费内容、会员权益、
-   含广告或任何变现形式的项目。
+2. 你不可以（未经作者书面同意）
 
-4. 借此引流
-   不得以本项目为噱头，为你自己的账号、社群、商店或产品导流；
-   不得暗示本项目由你制作、或与你存在合作、授权、关联关系。
+   a. **二次转载。** 不得将本仓库的任何内容 —— 源码、点九数据、图片素材 ——
+      整体或部分地搬运、上传、镜像、打包、重新发布到其他平台、仓库、网盘或
+      素材站。**即使不收费、即使标注了出处，也不行。** 喜欢的话请直接链接
+      到本仓库。
+   b. **二次修改。** 不得修改、改编、再创作后以任何形式发布或分发，包括但不
+      限于改色、改尺寸、换装饰、重新命名后重新发布。自己改着自己用可以，
+      发出去不行。
+   c. **商业使用。** 不得用于任何商业用途，包括收费产品、付费内容、会员权益、
+      含广告的项目，或任何变现形式。
+   d. **借此引流。** 不得以本项目为噱头，为你自己的账号、社群、商店或产品导流。
+   e. **抹除或篡改**版权声明、本许可证，以及第 3 条要求的署名。
+   f. **再许可**：不得把本项目置于其他条款之下分发。
 
-────────────────────────────────────────
+3. 署名与关联
 
-ENGLISH SUMMARY
+   在允许的范围内公开提及本项目 —— 演示、截图、视频、发帖、教程 —— 必须
+   **显著署名原作者，并附上可点击的原仓库链接**。
 
-All rights reserved. You may read this code and learn from it.
-You may NOT redistribute it (in whole or in part, including the image
-assets), modify or create derivative works from it, use it commercially,
-or use this project to promote your own accounts, communities or products,
-or imply any affiliation with it. Link to this repository instead of
-re-uploading it. Written permission from the author is required for
-anything beyond reading and learning.
+   不得暗示本项目由你制作，或与你存在合作、授权、关联关系；也不得隐去、淡化
+   或谎报来源。
 
-────────────────────────────────────────
+4. 关于图片素材
 
-关于图片素材
+   仓库里的气泡图片经过重新抠图、清理与点九校准后收录于此，**同样受本许可
+   约束**，不因为"只是图片"而例外。
 
-仓库里的气泡图片经过重新抠图、清理与点九校准后收录于此。
-如果你是某张原画的作者，认为此处的使用不合适，请开一个 issue，
-我会立刻处理或下架。
+   如果你是某张原画的作者，认为此处的使用不合适，请开一个 issue，
+   我会立刻处理或下架。
+
+5. 第三方素材
+
+   第三方的品牌、logo、图标、字体、媒体或模型素材不在本许可范围内，
+   需另行获取并遵守其各自条款。
+
+6. 免责
+
+   本项目按「现状」提供，不附带任何明示或默示的担保。作者不对因使用本项目
+   而产生的任何主张、损害或其他责任负责。
+
+7. 终止
+
+   一旦违反本许可证，其授予的全部权利立即自动终止。
+
+8. 其他用途
+
+   上述未明确许可的用途 —— 转载、改编、商用尤其 —— 须事先取得作者书面许可。
+   先来问。
+
+==============================================================================
+ENGLISH (for reference; the Chinese text above prevails in case of conflict)
+
+Copyright (c) 2026 zaochuanyitian ("小猫") — https://github.com/zaochuanyitian
+All rights reserved. This project is source-available, NOT open source.
+
+1. YOU MAY
+   a. Read this source code and learn from it.
+   b. Reference the techniques in your own personal, non-commercial projects
+      (reference the approach — do not copy the files).
+   c. Share a link to this repository. Links are welcome; copies are not.
+
+2. YOU MAY NOT, without the author's prior written permission
+   a. REDISTRIBUTE. Do not copy, upload, mirror, repackage, or republish any
+      part of this repository — source code, nine-patch data, or image assets —
+      to any other platform, repository, file host, or asset site. This holds
+      EVEN IF the redistribution is free of charge and EVEN IF it is credited.
+      Link to this repository instead.
+   b. CREATE DERIVATIVES FOR RELEASE. Do not modify, adapt, or re-create and
+      then publish or distribute the result, including recoloring, resizing,
+      restyling, or renaming. Modifying it for your own private use is fine;
+      shipping that modification is not.
+   c. USE IT COMMERCIALLY. No paid products, paid content, membership perks,
+      ad-supported projects, or any other form of monetization.
+   d. USE IT TO DRIVE TRAFFIC to your own accounts, communities, shops, or
+      products.
+   e. REMOVE OR ALTER the copyright notice, this license, or the attribution
+      required by Section 3.
+   f. SUBLICENSE or relicense this project under different terms.
+
+3. ATTRIBUTION AND AFFILIATION
+   Any permitted public mention — demos, screenshots, videos, posts, tutorials
+   — must conspicuously credit the original author and include a working link
+   back to this repository. Do not imply that you made this project, or that
+   you are affiliated with, sponsored by, or licensed by its author, and do not
+   omit, bury, or misstate its origin.
+
+4. IMAGE ASSETS
+   The bubble images here were re-cut, cleaned, and nine-patch calibrated for
+   this repository, and are covered by this license like everything else. If
+   you are the artist behind one of them and are not comfortable with its use
+   here, open an issue and it will be handled or taken down immediately.
+
+5. THIRD-PARTY ASSETS
+   Third-party brand, logo, icon, font, media, or model assets are not covered
+   by this license and must be obtained separately under their own terms.
+
+6. NO WARRANTY
+   Provided "AS IS", without warranty of any kind, express or implied. The
+   author is not liable for any claim, damages, or other liability arising
+   from use of this project.
+
+7. TERMINATION
+   Any breach terminates the rights granted here immediately and automatically.
+
+8. ANYTHING ELSE
+   Any use not permitted above — redistribution, derivatives, and commercial
+   use in particular — requires prior written permission. Ask first.

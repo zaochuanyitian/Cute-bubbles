@@ -107,4 +107,6 @@ python3 tools/measure.py Assets/png --swift               # 出 Swift 数组
 
 喜欢的话，请直接链接到这个仓库，不要搬走它。
 
+在允许的范围内公开提到它（演示、截图、视频、发帖），**必须显著署名原作者并链回本仓库**。
+
 完整条款见 [LICENSE](LICENSE)。
