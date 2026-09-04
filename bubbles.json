@@ -1,0 +1,468 @@
+{
+  "$comment": "capInsets / contentInsets are in points (pt); the PNGs are @3x, so pt = px / 3. Insets are measured for the un-mirrored image; mirror horizontally and swap leading/trailing for incoming-side bubbles.",
+  "version": 1,
+  "bubbles": [
+    {
+      "id": "halo-gray",
+      "name": "光环灰",
+      "file": "halo-gray.png",
+      "pixelSize": [
+        426,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 31.3,
+        "leading": 50.3,
+        "bottom": 25.7,
+        "trailing": 51.0
+      },
+      "contentInsets": {
+        "top": 19.0,
+        "leading": 22.0,
+        "bottom": 14.7,
+        "trailing": 22.7
+      }
+    },
+    {
+      "id": "comic",
+      "name": "漫画框",
+      "file": "comic.png",
+      "pixelSize": [
+        330,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 25.7,
+        "leading": 39.0,
+        "bottom": 31.3,
+        "trailing": 40.0
+      },
+      "contentInsets": {
+        "top": 14.0,
+        "leading": 18.0,
+        "bottom": 21.7,
+        "trailing": 19.0
+      }
+    },
+    {
+      "id": "pixel-cat",
+      "name": "像素猫",
+      "file": "pixel-cat.png",
+      "pixelSize": [
+        392,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 32.0,
+        "leading": 45.2,
+        "bottom": 25.0,
+        "trailing": 51.5
+      },
+      "contentInsets": {
+        "top": 17.7,
+        "leading": 22.0,
+        "bottom": 17.3,
+        "trailing": 28.3
+      }
+    },
+    {
+      "id": "pink-cat",
+      "name": "粉猫",
+      "file": "pink-cat.png",
+      "pixelSize": [
+        419,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 33.3,
+        "leading": 60.5,
+        "bottom": 23.7,
+        "trailing": 47.1
+      },
+      "contentInsets": {
+        "top": 21.0,
+        "leading": 38.7,
+        "bottom": 16.0,
+        "trailing": 25.3
+      }
+    },
+    {
+      "id": "cloud",
+      "name": "云朵",
+      "file": "cloud.png",
+      "pixelSize": [
+        405,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 35.3,
+        "leading": 49.7,
+        "bottom": 21.7,
+        "trailing": 51.1
+      },
+      "contentInsets": {
+        "top": 22.0,
+        "leading": 26.3,
+        "bottom": 15.0,
+        "trailing": 27.7
+      }
+    },
+    {
+      "id": "halo-blue",
+      "name": "光环蓝",
+      "file": "halo-blue.png",
+      "pixelSize": [
+        433,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 33.3,
+        "leading": 52.4,
+        "bottom": 23.7,
+        "trailing": 50.7
+      },
+      "contentInsets": {
+        "top": 15.3,
+        "leading": 23.7,
+        "bottom": 14.7,
+        "trailing": 22.0
+      }
+    },
+    {
+      "id": "rain",
+      "name": "下雨",
+      "file": "rain.png",
+      "pixelSize": [
+        413,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 33.3,
+        "leading": 51.1,
+        "bottom": 23.7,
+        "trailing": 55.8
+      },
+      "contentInsets": {
+        "top": 20.0,
+        "leading": 30.3,
+        "bottom": 15.7,
+        "trailing": 35.0
+      }
+    },
+    {
+      "id": "halo-silver",
+      "name": "光环银",
+      "file": "halo-silver.png",
+      "pixelSize": [
+        426,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 33.0,
+        "leading": 50.6,
+        "bottom": 24.0,
+        "trailing": 50.6
+      },
+      "contentInsets": {
+        "top": 15.0,
+        "leading": 22.3,
+        "bottom": 15.3,
+        "trailing": 22.3
+      }
+    },
+    {
+      "id": "music",
+      "name": "音符",
+      "file": "music.png",
+      "pixelSize": [
+        455,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 26.7,
+        "leading": 58.0,
+        "bottom": 30.3,
+        "trailing": 49.7
+      },
+      "contentInsets": {
+        "top": 12.3,
+        "leading": 27.3,
+        "bottom": 18.3,
+        "trailing": 19.0
+      }
+    },
+    {
+      "id": "halo-pink",
+      "name": "光环粉",
+      "file": "halo-pink.png",
+      "pixelSize": [
+        425,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 32.0,
+        "leading": 50.3,
+        "bottom": 25.0,
+        "trailing": 51.0
+      },
+      "contentInsets": {
+        "top": 14.3,
+        "leading": 22.3,
+        "bottom": 17.0,
+        "trailing": 23.0
+      }
+    },
+    {
+      "id": "nurse",
+      "name": "护士",
+      "file": "nurse.png",
+      "pixelSize": [
+        379,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 29.3,
+        "leading": 42.1,
+        "bottom": 27.7,
+        "trailing": 51.4
+      },
+      "contentInsets": {
+        "top": 15.3,
+        "leading": 19.7,
+        "bottom": 15.3,
+        "trailing": 29.0
+      }
+    },
+    {
+      "id": "rain-bear",
+      "name": "雨熊",
+      "file": "rain-bear.png",
+      "pixelSize": [
+        469,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 31.0,
+        "leading": 56.2,
+        "bottom": 26.0,
+        "trailing": 58.6
+      },
+      "contentInsets": {
+        "top": 10.0,
+        "leading": 27.3,
+        "bottom": 13.0,
+        "trailing": 29.7
+      }
+    },
+    {
+      "id": "sailor",
+      "name": "水手",
+      "file": "sailor.png",
+      "pixelSize": [
+        423,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 27.0,
+        "leading": 55.2,
+        "bottom": 30.0,
+        "trailing": 52.8
+      },
+      "contentInsets": {
+        "top": 11.3,
+        "leading": 32.7,
+        "bottom": 11.3,
+        "trailing": 30.3
+      }
+    },
+    {
+      "id": "fish",
+      "name": "小鱼",
+      "file": "fish.png",
+      "pixelSize": [
+        322,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 24.7,
+        "leading": 39.4,
+        "bottom": 32.3,
+        "trailing": 39.4
+      },
+      "contentInsets": {
+        "top": 13.3,
+        "leading": 20.3,
+        "bottom": 24.0,
+        "trailing": 20.3
+      }
+    },
+    {
+      "id": "bow-cat",
+      "name": "结猫",
+      "file": "bow-cat.png",
+      "pixelSize": [
+        394,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 29.7,
+        "leading": 47.9,
+        "bottom": 27.3,
+        "trailing": 53.9
+      },
+      "contentInsets": {
+        "top": 17.7,
+        "leading": 28.0,
+        "bottom": 21.7,
+        "trailing": 34.0
+      }
+    },
+    {
+      "id": "moon-bunny",
+      "name": "月亮",
+      "file": "moon-bunny.png",
+      "pixelSize": [
+        378,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 16.7,
+        "leading": 52.1,
+        "bottom": 40.3,
+        "trailing": 47.1
+      },
+      "contentInsets": {
+        "top": 15.7,
+        "leading": 34.3,
+        "bottom": 26.0,
+        "trailing": 29.3
+      }
+    },
+    {
+      "id": "snow",
+      "name": "雪天",
+      "file": "snow.png",
+      "pixelSize": [
+        411,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 34.7,
+        "leading": 49.8,
+        "bottom": 22.3,
+        "trailing": 52.8
+      },
+      "contentInsets": {
+        "top": 22.7,
+        "leading": 26.3,
+        "bottom": 12.0,
+        "trailing": 29.3
+      }
+    },
+    {
+      "id": "peek-cat",
+      "name": "趴猫",
+      "file": "peek-cat.png",
+      "pixelSize": [
+        423,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 32.3,
+        "leading": 48.3,
+        "bottom": 24.7,
+        "trailing": 55.6
+      },
+      "contentInsets": {
+        "top": 20.0,
+        "leading": 22.7,
+        "bottom": 9.0,
+        "trailing": 30.0
+      }
+    },
+    {
+      "id": "paw",
+      "name": "肉垫",
+      "file": "paw.png",
+      "pixelSize": [
+        383,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 29.3,
+        "leading": 40.8,
+        "bottom": 27.7,
+        "trailing": 53.1
+      },
+      "contentInsets": {
+        "top": 18.0,
+        "leading": 17.7,
+        "bottom": 19.3,
+        "trailing": 30.0
+      }
+    },
+    {
+      "id": "bird",
+      "name": "小鸟",
+      "file": "bird.png",
+      "pixelSize": [
+        331,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 20.0,
+        "leading": 41.9,
+        "bottom": 37.0,
+        "trailing": 40.6
+      },
+      "contentInsets": {
+        "top": 9.0,
+        "leading": 23.3,
+        "bottom": 20.3,
+        "trailing": 22.0
+      }
+    },
+    {
+      "id": "bandaid",
+      "name": "创可贴",
+      "file": "bandaid.png",
+      "pixelSize": [
+        400,
+        180
+      ],
+      "scale": 3,
+      "capInsets": {
+        "top": 30.7,
+        "leading": 56.4,
+        "bottom": 26.3,
+        "trailing": 44.4
+      },
+      "contentInsets": {
+        "top": 14.0,
+        "leading": 34.3,
+        "bottom": 10.3,
+        "trailing": 22.3
+      }
+    }
+  ]
+}
